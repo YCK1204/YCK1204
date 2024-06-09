@@ -1,16 +1,26 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Venom&color=008000&height=300&section=header&text=Welcome%20YCK's%20github!&fontSize=54&animation=fadeIn&fontColor=FFFFFF)
+# 💪Skills
+### Platforms & Languages
+![c](https://img.shields.io/badge/c-646EFF.svg?&style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/c++-1478FF.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![c#](https://img.shields.io/badge/c%23-147814.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
-<!--
-**YCK1204/YCK1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-323232.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 
-Here are some ideas to get you started:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan1031)](https://solved.ac/yechan1031/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+![Git](https://img.shields.io/badge/git-DB631F.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/visual%20studio-7B68EE.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+### In Learning
+![Mysql](https://img.shields.io/badge/mysql-FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=black)
+![Dotnet](https://img.shields.io/badge/dotnet-4646CD.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
+![EFCore](https://img.shields.io/badge/ef%20core-4646CD.svg?&style=for-the-badge)
+
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/Blog-FF4500?style=flat-square&logo=tistory&link=https://dpcks5959.tistory.com/)](https://dpcks5959.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dpcks5959@gmail.com)](mailto:dpcks5959@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dpcks5959@naver.com)](mailto:dpcks5959@naver.com)
