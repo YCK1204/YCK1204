@@ -8,7 +8,6 @@
 ![c#](https://img.shields.io/badge/c%23-147814.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine-323232.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan1031)](https://solved.ac/yechan1031/)
 </div>
@@ -18,7 +17,6 @@
 ### Tools
 ![Git](https://img.shields.io/badge/git-DB631F.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-7B68EE.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 </div>
 
 <div align="center">
