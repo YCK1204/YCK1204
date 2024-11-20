@@ -13,7 +13,7 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan1031)](https://solved.ac/yechan1031/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YCK1204)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
