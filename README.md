@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=008000&height=300&section=header&text=Welcome%20YCK's%20github!&fontSize=54&animation=fadeIn&fontColor=FFFFFF)
 
 
-
 # 💪Skills
 ### Platforms & Languages
 ![c](https://img.shields.io/badge/c-646EFF.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -12,8 +11,8 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan1031)](https://solved.ac/yechan1031/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YCK1204)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
 <div align="center">
@@ -31,6 +30,16 @@
 ![Mysql](https://img.shields.io/badge/mysql-FFFFFF.svg?&style=for-the-badge&logo=mysql&logoColor=black)
 ![Dotnet](https://img.shields.io/badge/dotnet-4646CD.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
 ![EFCore](https://img.shields.io/badge/ef%20core-4646CD.svg?&style=for-the-badge)
+</div>
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YCK1204&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yechan1031)](https://solved.ac/yechan1031/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YCK1204&layout=compact)
+
+
 </div>
 
 <div align="center">
