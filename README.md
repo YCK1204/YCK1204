@@ -13,7 +13,7 @@
 ## 🎯 About Me
 ```yaml
 name: "YCK (Yechan Kim)"
-role: "Game Developer & Backend Enthusiast"
+role: "Game Developer"
 location: "South Korea"
 current_focus: "Unity Game Development"
 learning: ["ASP.NET Core", "Entity Framework", "MySQL"]
@@ -33,7 +33,7 @@ hobbies: ["Algorithm Solving", "Game Development", "Blog Writing"]
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 
-### 🗄️ Database & Backend
+### 🗄️ Database
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
@@ -48,17 +48,18 @@ hobbies: ["Algorithm Solving", "Game Development", "Blog Writing"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YCK1204&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YCK1204&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YCK1204&layout=compact&theme=radical&hide_border=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YCK1204&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YCK1204&layout=compact&theme=radical&hide_border=true&count_private=true)
 
 </div>
+
 
 ---
 
@@ -77,11 +78,10 @@ hobbies: ["Algorithm Solving", "Game Development", "Blog Writing"]
 ## 📈 Contribution Activity
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YCK1204&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YCK1204&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&count_private=true)
 
 </div>
-
 ---
 
 ## 🌟 Fun Facts
