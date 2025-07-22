@@ -16,7 +16,7 @@ name: "YCK (Yechan Kim)"
 role: "Game Developer"
 location: "South Korea"
 current_focus: "Unity Game Development"
-learning: ["ASP.NET Core", "Entity Framework", "MySQL"]
+learning: ["ASP.NET Core", "Entity Framework", "MySQL", "MSSQL"]
 hobbies: ["Algorithm Solving", "Game Development", "Blog Writing"]
 ```
 
@@ -88,7 +88,7 @@ hobbies: ["Algorithm Solving", "Game Development", "Blog Writing"]
 
 ```typescript
 const yck = {
-    code: ["C++", "C#", "JavaScript", "HTML/CSS"],
+    code: ["C++", "C#"],
     askMeAbout: ["game dev", "algorithms", "unity"],
     technologies: {
         gameEngine: ["Unity"],
